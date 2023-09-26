@@ -1,8 +1,6 @@
-# Thanks for reaching out
+# About me
 
-- 👋 Hi, I’m @dev2xl
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning AWS, Bun
+👋 Hi, I’m @dev2xl, a passionate Software Engineer with experience in Full Stack Development.
 
 <!---
 dev2xl/dev2xl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
