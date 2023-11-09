@@ -2,15 +2,15 @@
 
 👋 Hi, I’m @dev2xl, a passionate Software Engineer with experience in Full Stack Development.
 
-# Tech stack
+# Tech stack preview
 
 ## Frontend
 
 - React
 - Tailwindcss
+- Zustand
 - Redux
 - React Query
-- Formik
 
 ## Backend
 
@@ -41,8 +41,7 @@
 
 - Typescript
 - Docker
-- Yup
-- Joi
+- Zod
 
 <!---
 dev2xl/dev2xl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
